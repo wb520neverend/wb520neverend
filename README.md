@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi welcom
 
 <!--
-**wb520neverend/wb520neverend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wb520neverend/wb520neverend** is a ✨ _special_ ✨ 计算机专业学生
 
 Here are some ideas to get you started:
 
