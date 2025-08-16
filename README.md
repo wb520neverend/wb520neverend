@@ -1,7 +1,7 @@
 ## Hi welcom
 
 <!--
-**wb520neverend/wb520neverend** is a ✨ _special_ ✨ 计算机专业学生
+**neverend_zbb/neverend_end** is a ✨ _special_ ✨ 计算机专业学生
 
 Here are some ideas to get you started:
 
